@@ -8,18 +8,22 @@
  
 int main()
 {
-   int a[10],i,sum;
+   int a[10],i,sum =0, n;
    printf("Enter number of elements in array and the array elements");
    scanf("%d", &n);
- 
+ printf("enter the elements of the array");
   // printf("Enter %d elements\n", n);
  
    for (i = 0; i < n; i++)
    {
       scanf("%d", &a[i]);
-      sum=sum+a[]; 
    }
- printf("Sum of elements=%d", );
+printf("enter %d elements \n",n);
+ for (i=0; i<n;i++)
+   {
+      sum=sum+a[i]; 
+   }
+ printf("Sum of elements=%d",sum );
  
   return 0;
 }
