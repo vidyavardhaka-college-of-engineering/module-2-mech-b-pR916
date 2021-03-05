@@ -1,5 +1,5 @@
 //INPUT -3 1 2 3
-//OUTPUT- Total number of even numbers and odd numbers in the array are 1 and 3
+//OUTPUT- Total number of even numbers and odd numbers in the array are 1 and 2
 
 //INSERT THE MISSING CODE 
 #include<stdio.h>
