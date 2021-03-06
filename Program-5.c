@@ -2,10 +2,7 @@
 //OUTPUT - Sum of elements=10
 
 
-#include <stdio.h>
- 
-#include <stdio.h>
- 
+#include<stdio.h>
 int main()
 {
    int a[10],i,sum =0, n;
